@@ -42,6 +42,7 @@ This is the latest Indonesian Odoo localisation necessary to run Odoo accounting
         'data/account.account.tag.csv',
         'data/account.tax.template.csv'
     ],
+    'images': ['static/description/banner.jpeg'],
     'installable': True,
     'application': False,
     'auto_install': False,
