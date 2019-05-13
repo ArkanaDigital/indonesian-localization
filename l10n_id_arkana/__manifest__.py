@@ -34,7 +34,7 @@ This is the latest Indonesian Odoo localisation necessary to run Odoo accounting
     'maintainer': 'Arkana Solusi Digital',
     'company': 'Arkana Solusi Digital',
     'website': 'https://arkana.co.id',
-    'depends': [ 'base', 'account','base_iban', 'base_vat'],
+    'depends': [ 'base', 'account','base_iban', 'base_vat', 'om_account_accountant'],
     'data': [
         'data/l10n_id_chart_data.xml',
         'data/account.account.template.csv',
