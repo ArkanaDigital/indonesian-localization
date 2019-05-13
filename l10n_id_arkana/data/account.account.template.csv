@@ -1,0 +1,57 @@
+id,chart_template_id:id,code,name,user_type_id:id,reconcile
+l10n_id1010105,l10n_id,1010121,Time Deposits,account.data_account_type_liquidity,FALSE
+l10n_id1010201,l10n_id,1010201,Trade Receivables,account.data_account_type_receivable,TRUE
+l10n_id1010202,l10n_id,1010202,AR-Related Parties,account.data_account_type_receivable,TRUE
+l10n_id1010203,l10n_id,1010203,Other Receivables,account.data_account_type_receivable,TRUE
+l10n_id1010204,l10n_id,1010204,Employee Receivables,account.data_account_type_receivable,TRUE
+l10n_id1010301,l10n_id,1010301,Inventories,account.data_account_type_current_assets,FALSE
+l10n_id1010302,l10n_id,1010302,Goods In Transit,account.data_account_type_current_assets,FALSE
+l10n_id1010401,l10n_id,1010401,Employee Advance,account.data_account_type_prepayments,FALSE
+l10n_id1010402,l10n_id,1010402,Purchase Advance,account.data_account_type_prepayments,FALSE
+l10n_id1010501,l10n_id,1010501,Income Tax Art 21,account.data_account_type_current_assets,FALSE
+l10n_id1010502,l10n_id,1010502,Income Tax Art 25,account.data_account_type_current_assets,FALSE
+l10n_id1010503,l10n_id,1010503,Value Added Tax,account.data_account_type_current_assets,FALSE
+l10n_id1010504,l10n_id,1010504,Tax Clearing Asset,account.data_account_type_current_assets,FALSE
+l10n_id1010601,l10n_id,1010601,Prepaid Insurance,account.data_account_type_current_assets,FALSE
+l10n_id1010602,l10n_id,1010602,Prepaid Rent,account.data_account_type_current_assets,FALSE
+l10n_id1010701,l10n_id,1010701,FA Cost of Acquisition,account.data_account_type_fixed_assets,FALSE
+l10n_id1010702,l10n_id,1010702,FA Accumulated Depreciation,account.data_account_type_fixed_assets,FALSE
+l10n_id1020101,l10n_id,1020101,WIP Project,account.data_account_type_non_current_assets,FALSE
+l10n_id2010101,l10n_id,2010101,Bank Loans,account.data_account_type_current_liabilities,FALSE
+l10n_id2010201,l10n_id,2010201,Account Payable Trade,account.data_account_type_payable,TRUE
+l10n_id2010202,l10n_id,2010202,AP Trade - Related Parties,account.data_account_type_payable,TRUE
+l10n_id2010203,l10n_id,2010203,Unbilled Payable,account.data_account_type_payable,TRUE
+l10n_id2010301,l10n_id,2010301,Other Payables,account.data_account_type_current_liabilities,FALSE
+l10n_id2010401,l10n_id,2010401,Tax Payable-Art 21,account.data_account_type_current_liabilities,FALSE
+l10n_id2010402,l10n_id,2010402,Tax Payable-Art 25,account.data_account_type_current_liabilities,FALSE
+l10n_id2010403,l10n_id,2010403,Tax Payable-VAT OUT,account.data_account_type_current_liabilities,FALSE
+l10n_id2010404,l10n_id,2010404,Witholding Art 23,account.data_account_type_current_liabilities,FALSE
+l10n_id2010405,l10n_id,2010405,Tax Clearing Payable,account.data_account_type_current_liabilities,FALSE
+l10n_id2010501,l10n_id,2010501,Accrued Salaries,account.data_account_type_current_liabilities,FALSE
+l10n_id2010502,l10n_id,2010502,Accrued Telecommunication Exp,account.data_account_type_current_liabilities,FALSE
+l10n_id2020101,l10n_id,2020101,Long Term Bank Loans - Bank ....,account.data_account_type_non_current_liabilities,FALSE
+l10n_id3010101,l10n_id,3010101,Issued Stock,account.data_account_type_equity,FALSE
+l10n_id3020101,l10n_id,3020101,Retained Earnings,account.data_account_type_equity,FALSE
+l10n_id3020102,l10n_id,3020102,Reserve and Profit/Loss Account,account.data_unaffected_earnings,FALSE
+l10n_id4010101,l10n_id,4010101,Sales Revenue,account.data_account_type_revenue,FALSE
+l10n_id5010101,l10n_id,5010101,Cost of Sales,account.data_account_type_direct_costs,FALSE
+l10n_id6010101,l10n_id,6010101,Salary & Welfare,account.data_account_type_expenses,FALSE
+l10n_id6010102,l10n_id,6010102,Business Trip,account.data_account_type_expenses,FALSE
+l10n_id6010103,l10n_id,6010103,Jamsostek,account.data_account_type_expenses,FALSE
+l10n_id6010104,l10n_id,6010104,Depreciation,account.data_account_type_depreciation,FALSE
+l10n_id6010105,l10n_id,6010105,Insurance,account.data_account_type_expenses,FALSE
+l10n_id6010106,l10n_id,6010106,Professional Fees,account.data_account_type_expenses,FALSE
+l10n_id6010107,l10n_id,6010107,Rental,account.data_account_type_expenses,FALSE
+l10n_id6010108,l10n_id,6010108,Telecommunication,account.data_account_type_expenses,FALSE
+l10n_id6010109,l10n_id,6010109,Maintenance,account.data_account_type_expenses,FALSE
+l10n_id6010110,l10n_id,6010110,Postage & Courier,account.data_account_type_expenses,FALSE
+l10n_id6010111,l10n_id,6010111,"Printing, Copy & Stationery",account.data_account_type_expenses,FALSE
+l10n_id6010112,l10n_id,6010112,Miscellaneous,account.data_account_type_expenses,FALSE
+l10n_id7010101,l10n_id,7010101,Bank Charges,account.data_account_type_expenses,FALSE
+l10n_id7010102,l10n_id,7010102,Loss on Asset Disposal,account.data_account_type_expenses,FALSE
+l10n_id7010103,l10n_id,7010103,Loss on Forex Transaction,account.data_account_type_expenses,FALSE
+l10n_id7020101,l10n_id,7020101,Interest on Saving Accounts,account.data_account_type_other_income,FALSE
+l10n_id7020102,l10n_id,7020102,Gain on Asset Disposal,account.data_account_type_other_income,FALSE
+l10n_id7020103,l10n_id,7020103,Gain on Forex Transaction,account.data_account_type_other_income,FALSE
+l10n_id3030101,l10n_id,3030101,Opening Income Account,account.data_account_type_equity,FALSE
+l10n_id3030102,l10n_id,3030102,Opening Expense Account,account.data_account_type_equity,FALSE
