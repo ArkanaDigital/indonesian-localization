@@ -21,7 +21,7 @@
 ###################################################################################
 {
     'name': 'Indonesian - Accounting',
-    'version': '12.0.1.0.0',
+    'version': '11.0.1.0.0',
     'category': 'Localization',
     'summary' : 'Chart of Account (COA) Indonesia',
     'description': """
@@ -34,13 +34,12 @@ This is the latest Indonesian Odoo localisation necessary to run Odoo accounting
     'maintainer': 'Arkana Solusi Digital',
     'company': 'Arkana Solusi Digital',
     'website': 'https://arkana.co.id',
-    'depends': [ 'base', 'account','base_iban', 'base_vat'],
+    'depends': ['account'],
     'data': [
-        'data/l10n_id_chart_data.xml',
+        'data/account_chart_template_data.xml',
         'data/account.account.template.csv',
-        'data/account.chart.template.csv',
-        'data/account.account.tag.csv',
-        'data/account.tax.template.csv'
+        'data/l10n_id_chart_data.xml',
+        'data/account_chart_template_configure_data.xml',
     ],
     'images': ['static/description/banner.jpeg'],
     'installable': True,
